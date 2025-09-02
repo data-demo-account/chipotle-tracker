@@ -50,7 +50,7 @@ if 'mc_data' not in st.session_state:
 
 # Title and description
 st.title("🌯 Chipotle Bowl Weight Tracker")
-st.markdown("*Tracking the consistency (or lack thereof) of Chipotle portions!*")
+st.markdown("*Tracking our Chipotle portions*")
 
 # Add new data entry section
 with st.expander("➕ Add New Bowl Weight", expanded=False):
